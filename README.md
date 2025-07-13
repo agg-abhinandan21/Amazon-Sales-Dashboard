@@ -2,12 +2,40 @@
 
 Proud to share this dynamic Power BI dashboard built to analyze Amazon’s global sales performance over a 4-year period (2012 to 2015). This project was designed to turn raw sales data into actionable insights for strategic decision-making.
 
- Key metrics and visualizations include:
+📌 Key Features & Insights:
+🔹 Year-wise Sales Analysis
+Explore year-over-year growth with interactive filters spanning 2012 to 2015.
 
-✅ Sales Projection & KPI Growth
-✅ Segment-wise & Market-wise Sales Breakdown
-✅ Top & Bottom Performing Products
-✅ Customer Profitability Analysis
+🔹 Sales Projection & KPIs
+
+Sales grew from 2.26M (2012) to 12.64M (2015)
+
+KPI performance increased from 31K to 178K
+
+Return rates and product units are tracked annually
+
+🔹 Sales by Segment
+Clear breakdown of B2C and B2B segments:
+
+Consumer, Corporate, and Home Office
+
+🔹 Sales by Global Market
+Sales trends analyzed across:
+
+Asia Pacific, Europe, LATAM, Africa, USCA (North America)
+
+🔹 Profit by Customer & Product
+
+Top & Bottom 5 Products and Customers by profit
+
+Valuable for identifying retention opportunities and underperforming SKUs
+
+🔹 Interactive Global Sales Map
+
+Visual hotspot mapping of sales distribution across continents
+
+Instantly highlights geographic strengths and gaps
+
 
 The dashboard offers deep business insights across segments like Consumer, Corporate, and Home Office, while highlighting trends in different geographic markets such as Asia Pacific, Europe, LATAM, and Africa.
 
